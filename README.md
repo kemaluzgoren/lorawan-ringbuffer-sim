@@ -22,5 +22,5 @@ make
 - POSIX-compliant environment (Linux/macOS)
 - GCC 
 - pthread support
-- [lwrb v1.2.0](https://github.com/
+- [lwrb v1.2.0](https://github.com/MaJerle/lwrb)
 
